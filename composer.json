@@ -1,0 +1,8 @@
+{
+    "require": {
+        "barion/barion-web-php": "1.4.11"
+    },
+    "config": {
+        "vendor-dir": "lib"
+    }
+}

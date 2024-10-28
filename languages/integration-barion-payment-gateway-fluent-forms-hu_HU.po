@@ -1,0 +1,170 @@
+# Copyright (C) 2024 oaron
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Integration for Barion payment gateway and Fluent Forms "
+"1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/integration-"
+"barion-payment-gateway-fluent-forms\n"
+"POT-Creation-Date: 2024-10-23 20:23:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-10-23 22:32+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.6.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: hu\n"
+
+#: includes/BarionHandler.php:39 includes/BarionHandler.php:47
+#: includes/BarionHandler.php:107
+msgid "Barion"
+msgstr "Barion"
+
+#: includes/BarionHandler.php:46
+msgid "Pay with Barion"
+msgstr "Fizetés Barion használatával"
+
+#: includes/BarionHandler.php:62
+msgid "Payee is required"
+msgstr "Fiók email kötelező"
+
+#: includes/BarionHandler.php:66
+msgid "Please select Payment Mode"
+msgstr "Válasszunk fizetési módot"
+
+#: includes/BarionHandler.php:72
+msgid "Barion Sandbox POSKey is required"
+msgstr "Barion Sandbox POS kulcs kötelező"
+
+#: includes/BarionHandler.php:77
+msgid "Barion Live POSKey is required"
+msgstr "Barion éles POS kulcs kötelező"
+
+#: includes/BarionHandler.php:112
+msgid "Status"
+msgstr "Státusz"
+
+#: includes/BarionHandler.php:113
+msgid "Enable Barion Payment Method"
+msgstr "Barion fizetésimód bekapcsolása"
+
+#: includes/BarionHandler.php:118
+msgid "Payment Mode"
+msgstr "Fizetési mód"
+
+#: includes/BarionHandler.php:120
+msgid "Sandbox Mode"
+msgstr "Sandbox mód"
+
+#: includes/BarionHandler.php:121
+msgid "Live Mode"
+msgstr "Éles mód"
+
+#: includes/BarionHandler.php:123
+msgid ""
+"For testing purposes you should select Sandbox Mode otherwise select Live "
+"mode. The POSKey is different in the sandbox and live Barion systems."
+msgstr ""
+"Teszteléshez válasszuk a Sandbox, különben az éles módot. A POS kulcs ilyen "
+"esetben eltér."
+
+#: includes/BarionHandler.php:129
+msgid "webshop@example.com"
+msgstr "webshop@example.com"
+
+#: includes/BarionHandler.php:130
+msgid "Payee"
+msgstr "Fiók email"
+
+#: includes/BarionHandler.php:131
+msgid ""
+"That property indicates the user wallet that will receive the amount of the "
+"transaction."
+msgstr "Ez a tulajdonság azt a pénztárcát azonosítja amibe a fizetés érkezik."
+
+#: includes/BarionHandler.php:137 includes/BarionHandler.php:138
+msgid "Sandbox POSKey"
+msgstr "Sandbo POS kulcs"
+
+#: includes/BarionHandler.php:139
+msgid "Provide your Sandbox POSKey for your sandbox payments."
+msgstr "Adjuk mega  sandbox POS kulcsot a teszt fizetésekhez."
+
+#: includes/BarionHandler.php:145 includes/BarionHandler.php:146
+msgid "Live POSKey"
+msgstr "Éles POS kulcs"
+
+#: includes/BarionHandler.php:147
+msgid ""
+"Provide your Live POSKey for your live payments. The POSKey is different in "
+"the sandbox and live Barion systems."
+msgstr ""
+"Adjuk meg az éles POS kulcsot a fizetések fogadásához. Az azonosító eltér a "
+"sandbox POS kulcstól."
+
+#: includes/BarionHandler.php:153 includes/BarionHandler.php:154
+msgid "Barion Pixel Key"
+msgstr "Barion Pixel azonosító"
+
+#: includes/BarionHandler.php:155
+msgid "HELP: %s."
+msgstr "Segítség: %s."
+
+#: includes/BarionProcessor.php:132
+msgid "Redirect to Barion.com"
+msgstr "Átirányítás a barion.com oldalra"
+
+#: includes/BarionProcessor.php:133
+msgid "User redirect to Barion.com for completing the payment"
+msgstr ""
+" felhasználó átirányításra kerül a barion.com oldalra a fizetés "
+"befejezéséhez."
+
+#: includes/BarionProcessor.php:140
+msgid ""
+"You are redirecting to Barion.com to complete the purchase. Please wait "
+"while you are redirecting...."
+msgstr ""
+"Átirányításra kerülünk a Barion.com oldalra. Várjunk amíg ez végbemegy..."
+
+#: includes/BarionProcessor.php:167
+msgid "Barion error"
+msgstr "Barion hiba"
+
+#: includes/BarionProcessor.php:286 includes/BarionProcessor.php:288
+msgid "Payment succeeded."
+msgstr "Fizetés sikeres."
+
+#: includes/BarionProcessor.php:304 includes/BarionProcessor.php:306
+msgid "Payment canceled."
+msgstr "Fizetés megszakítva."
+
+#: includes/BarionProcessor.php:315 includes/BarionProcessor.php:317
+msgid "Payment is expired."
+msgstr "A fizetés lejárt."
+
+#: integration-barion-payment-gateway-fluent-forms.php:90
+msgid ""
+"Please install Fluent Forms and Fluent Forms Pro to use Barion Payment "
+"Gateway Integration!"
+msgstr ""
+"A Barion integráció használatához telepítsük a Fluent forms és Fluent forms "
+"PRO bővítményeket."
+
+#. Plugin Name of the plugin/theme
+msgid "Integration for Barion payment gateway and Fluent Forms"
+msgstr "Barion integráció a Fluent Formshoz"
+
+#. Description of the plugin/theme
+msgid "Barion payment gateway integration for Fluent Forms"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "oaron"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://bitron.hu"
+msgstr ""

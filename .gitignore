@@ -1,0 +1,9 @@
+# Ignore the entire lib directory
+lib/
+
+# Ignore the entire node_modules directory
+node_modules/
+
+# Ignore lock files
+composer.lock
+package-lock.json
