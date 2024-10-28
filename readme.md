@@ -21,11 +21,11 @@ I'd be happy to hear your feedback! Feel free to contact me at ugyfelszolgalat@b
 
 ## Contribution
 
-You're welcome to contribute to this open source plugin by creating pull requests on [GitHub](https://github.com/szelpe/woocommerce-barion). To do this, you need to fork the repository, implement the changes, and push them to your fork. After that, you can create a pull request to merge changes from your fork into the main repository.
+You're welcome to contribute to this open source plugin by creating pull requests. To do this, you need to fork the repository, implement the changes, and push them to your fork. After that, you can create a pull request to merge changes from your fork into the main repository.
 
 ## Bugs
 
-[Please report bugs as GitHub issues.](https://github.com/szelpe/woocommerce-barion/issues), or send me an email to ugyfelszolgalat (at) bitron (dot) hu.
+[Please report bugs as GitHub issues.](https://github.com/oaron/Barion-Payment-for-Fluent-Forms/issues), or send me an email to ugyfelszolgalat (at) bitron (dot) hu.
 
 ## Third-party Services
 
