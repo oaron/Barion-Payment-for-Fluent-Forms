@@ -10,6 +10,7 @@ use FluentFormPro\Payments\PaymentHelper;
 use FluentFormPro\Payments\PaymentMethods\BaseProcessor;
 use FluentBarion\BarionSettings\BarionSettings;
 use FluentBarion\BarionWrapper\BarionLoader;
+use Barion\BarionClient;
 class BarionProcessor extends BaseProcessor
 {
     public $method = 'barion';

@@ -11,8 +11,8 @@ class BarionLoader {
         public static function load() {
         
         if (!class_exists('BarionClient')) {
-    require_once plugin_dir_path(__FILE__) . '../lib/autoload.php';
-}
+    require_once plugin_dir_path(__FILE__) . '../lib/barion/barion-web-php/library/BarionClient.php';
+	}
         if (!class_exists('BarionHandler')) {
             require_once plugin_dir_path( __FILE__ ) . 'BarionHandler.php';
         }
